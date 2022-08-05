@@ -8,7 +8,7 @@ PORT(
     SW: IN std_logic_vector(3 DOWNTO 0);
     LEDR: OUT std_logic_vector(7 DOWNTO 0)
 );
-END Forca;
+END ForcaSimples;
 
 ARCHITECTURE behavioral OF Forca IS
 
